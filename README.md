@@ -2,4 +2,4 @@
 CRUD Create-crear Read-leer Update-actualizar Delete-borrar  Tabla Materia
 -  Version 2
 
-![image](https://github.com/user-attachments/assets/12e8e3bf-e864-4320-b473-a1708e26681b)
+![image](https://github.com/user-attachments/assets/acd92f28-4bf7-4396-bd70-1ba4a65466c2)
